@@ -1,0 +1,20 @@
+{
+  "dataset": "SMAP",
+  "lookback": 150,
+  "gru_n_layers": 1,
+  "gru_hid_dim": 100,
+  "fc_n_layers": 3,
+  "fc_hid_dim": 100,
+  "alpha": 0.2,
+  "epochs": 1000,
+  "val_split": 0.1,
+  "bs": 256,
+  "init_lr": 0.001,
+  "shuffle_dataset": true,
+  "dropout": 0.0,
+  "use_cuda": true,
+  "print_every": 1,
+  "log_tensorboard": true,
+  "dif_n": 1,
+  "train_time": 12949
+}
