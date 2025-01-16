@@ -5,6 +5,9 @@
 
 ## Main results
 ![results1](Images/results1.png)
+
+<img src="images/results1" alt="results1" style="width:50%; height:auto;">
+
 ![results2](Images/results2.png)
 
 ## License
