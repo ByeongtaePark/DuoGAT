@@ -6,7 +6,7 @@
 ## Main results
 ![results1](Images/results1.png)
 
-<img src="Images/results1" alt="results1" style="width:50%; height:auto;">
+<img src="Images/results1.png" alt="results1" style="width:50%; height:auto;">
 
 ![results2](Images/results2.png)
 
