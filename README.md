@@ -1,5 +1,5 @@
 # [CIKM'23] DuoGAT: Dual Time-oriented Graph Attention Networks for Accurate, Efficient and Explainable Anomaly Detection on Time-series
-This repository provides the official implementation of DuoGAT: Dual Time-oriented Graph Attention Networks for Accurate, Efficient and Explainable Anomaly Detection on Time-series, which was accepted at CIKM 2023. [Paper](https://scholarworks.bwise.kr/hanyang/bitstream/2021.sw.hanyang/193248/1/Dual%20Time-oriented%20Graph%20Attention%20Networks%20for%20Accurate%2C%20Efficient%20and%20Explainable%20Anomaly%20Detection%20on%20Time-series.pdf)
+This repository provides the official implementation of **DuoGAT: Dual Time-oriented Graph Attention Networks for Accurate, Efficient and Explainable Anomaly Detection on Time-series**, which was accepted at **CIKM 2023**. [Paper](https://scholarworks.bwise.kr/hanyang/bitstream/2021.sw.hanyang/193248/1/Dual%20Time-oriented%20Graph%20Attention%20Networks%20for%20Accurate%2C%20Efficient%20and%20Explainable%20Anomaly%20Detection%20on%20Time-series.pdf)
 
 ## Overview
 ![Overview](Images/overview.png)
