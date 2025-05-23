@@ -10,9 +10,15 @@ CIKM'23 [paper](https://scholarworks.bwise.kr/hanyang/bitstream/2021.sw.hanyang/
 <img src="Images/results2.png" alt="results2" style="width:75%; height:auto;">
 
 ## Citation
-'''
-Lee, Jongsoo, Byeongtae Park, and Dong-Kyu Chae. "Duogat: Dual time-oriented graph attention networks for accurate, efficient and explainable anomaly detection on time-series." Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. 2023.
-'''
+```
+@inproceedings{lee2023duogat,
+  title={Duogat: Dual time-oriented graph attention networks for accurate, efficient and explainable anomaly detection on time-series},
+  author={Lee, Jongsoo and Park, Byeongtae and Chae, Dong-Kyu},
+  booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages={1188--1197},
+  year={2023}
+}
+```
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
